@@ -1,0 +1,120 @@
+<resources>
+
+    <string name="my_name">Deni Gunawan Sapitri</string>
+    <string name="my_email">denig6727@gmail.com</string>
+
+    <string name="app_name">Classic Garage</string>
+    <string name="brand_title">Merk Mobil</string>
+    <string name="production_title">Tahun Pembuatan</string>
+    <string name="engine_title">Kapasitas Mesin</string>
+    <string name="dimention_title">Dimensi (p:l:t)</string>
+    <string name="price_title">Kisaran Harga</string>
+    <string name="country_title">Negara Asal</string>
+    <string name="spec_title">Spesifikasi</string>
+    <string name="desc_title">Deskripsi</string>
+    <string name="content">Konten</string>
+    <string name="desc_image_car">Image Car</string>
+    <string name="about_me">About Me</string>
+    <string name="list">List</string>
+    <string name="medium_grid">Medium Grid</string>
+    <string name="small_grid">Small Grid</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="spec_content">Dimension : %1$s\nEngine : %2$s</string>
+    <string name="share">share</string>
+    <string name="splash_loggo_desc">splash loggo</string>
+    <string name="bagikan_detail">Bagikan Detail</string>
+    <string name="detail_car">Detail Car</string>
+
+    <string-array name="data_list_brand">
+        <item>Porsche 911</item>
+        <item>Aston Martin DB5</item>
+        <item>Ford Mustang</item>
+        <item>BMW 2002</item>
+        <item>Chevrolet Corvette 1958</item>
+        <item>Jaguar E-Type OTS Series 1</item>
+        <item>Plymouth Hemi Cudo</item>
+        <item>Ferrari 250 GTO</item>
+        <item>Mercedes Benz 300SL Gullwing</item>
+        <item>Lamborghini Miura</item>
+    </string-array>
+
+    <string-array name="data_list_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a4/Porsche_911E_ca_1969.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3d/Aston_Martin_DB5_%28Skyfall%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/55/Ford_Mustang_serial_number_one.jpg</item>
+        <item>https://imgcdnblog.carbay.com/wp-content/uploads/2020/12/19154404/BMW-2002tii.jpg</item>
+        <item>https://s3-id-jkt-1.kilatstorage.id/fastnlow/2018/10/Sejarah-Panjang-Kesuksesan-Chevrolet-Corvette-part-1-4-880x485.jpg</item>
+        <item>https://e-typecenter.com/wp-content/uploads/1962-jaguar-xke-e-type-3-8-ots-cabrio-convertible-series-1-dark-blue-tan-matching-concours-etype.jpg</item>
+        <item>https://www.supercars.net/blog/wp-content/uploads/2016/04/1971_Plymouth_HEMICuda1.jpg</item>
+        <item>https://www.amalgamcollection.com/cdn/shop/files/Wideedit_c75f3823-4d44-4c28-98e9-9ae08f7486e0_2000x850_crop_center.jpg?v=1706011400</item>
+        <item>https://www.ultimatespecs.com/cargallery/13/6734/Mercedes-Benz-SL-(W198-II)-1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/1920px-1971_Lamborghini_Miura_P400_SV.jpg</item>
+    </string-array>
+
+    <string-array name="data_list_engine">
+        <item>1,991</item>
+        <item>3,995</item>
+        <item>4,736</item>
+        <item>1,991</item>
+        <item>4,600</item>
+        <item>3,781</item>
+        <item>6,981</item>
+        <item>2,953</item>
+        <item>2,996</item>
+        <item>3,929</item>
+    </string-array>
+
+    <string-array name="data_list_production">
+        <item>1963</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1968</item>
+        <item>1958</item>
+        <item>1962</item>
+        <item>1971</item>
+        <item>1962</item>
+        <item>1954</item>
+        <item>1971</item>
+    </string-array>
+
+    <string-array name="data_list_dimension">
+        <item>4,16 : 1,61 : 1,32 (1,080 kg)</item>
+        <item>4,57 : 1,67 : 1,34 (1,502 kg)</item>
+        <item>4,62 : 1,74 : 1,31 (1,162 kg)</item>
+        <item>4,22 : 1,59 : 1,41 (1,360)</item>
+        <item>4,50 : 1,84 : 1,32 (1,261 kg)</item>
+        <item>4,45 : 1,66 : 1,29 (1,098 kg)</item>
+        <item>4,74 : 1,90 : 1,29 (1,642 kg)</item>
+        <item>4,32 : 1,60 : 1,21 (880-950 kg)</item>
+        <item>4,57 : 1,77 : 1,30 (1,420 kg)</item>
+        <item>4,36 : 1,76 : 1,05 (1,292 kg)</item>
+    </string-array>
+
+    <string-array name="data_list_country">
+        <item>Jerman</item>
+        <item>Inggris</item>
+        <item>Amerika Serikat</item>
+        <item>Jerman</item>
+        <item>Amerika Serikat</item>
+        <item>Inggris</item>
+        <item>Amerika Serikat</item>
+        <item>Italia</item>
+        <item>Jerman</item>
+        <item>Italia</item>
+    </string-array>
+
+    <string-array name="data_list_description">
+        <item>Sebagai penerus Porsche 356, 911 memenangkan hati para penggemar mobil sport sejak awal. Prototipe pertama kali diperkenalkan di Frankfurt IAA Motor Show pada tahun 1963 sebagai 901, dan berganti nama menjadi 911 untuk peluncuran pasarnya pada tahun 1964. Mesin datar enam silinder berpendingin udara menghasilkan 130 hp, memberikan kecepatan tertinggi yang mengesankan, yaitu 210 km/jam.</item>
+        <item>Aston Martin DB5 adalah mobil Grand Tourer (GT) Inggris yang diproduksi oleh Aston Martin dan dirancang oleh pembuat bodi mobil asal Italia, Carrozzeria Touring Superleggera. Awalnya diproduksi dari tahun 1963 hingga 1965, DB5 merupakan evolusi dari seri terakhir DB4. Sebutan "DB" berasal dari inisial David Brown yang membangun perusahaan tersebut sejak tahun 1947 dan seterusnya.</item>
+        <item>Ford Mustang adalah serangkaian mobil Amerika yang diproduksi oleh Ford. Dalam produksi berkelanjutan sejak 1964, Mustang saat ini merupakan papan nama mobil Ford yang paling lama diproduksi. Saat ini dalam generasi keenamnya, ini adalah papan nama mobil Ford terlaris kelima. </item>
+        <item>Desain mobil yang apik dan cerita buruk terkenal, merupakan paduan yang tepat untuk membuat BMW 2002 semakin popular dan dilirik banyak orang. Keberhasilan 2002 menarik banyak orang untuk memiliki, menjadikan desain BMW 2002 terus dikembangkan.</item>
+        <item>Chevrolet Corvette adalah mobil sport yang diproduksi oleh Chevrolet, salah satu divisi dari General Motors. Mobil ini sudah dibuat dalam 7 generasi. Model pertamanya, sebuah konvertibel, didesain oleh Harley Earl, dipertunjukkan ke publik di GM Motorama pada tahun 1953 sebagai mobil konsep. Myron Scott adalah orang yang mencetuskan nama “Corvette” untuk mobil ini. Aslinya dibuat di Flint, Michigan dan St. Louis, Missouri, saat ini Corvette dibuat di Bowling Green, Kentucky dan menjadi mobil sport resmi Persemakmuran Kentucky.</item>
+        <item>Jaguar E-Type didasarkan pada mobil balap D-Type, yang telah memenangkan ajang balap ketahanan 24 Hours Le Mans tiga tahun berturut-turut mulai tahun 1955-1957. Mobil menggunakan apa yang menjadi –untuk awal 1960-an– prinsip desain balap baru, dengan subframe depan membawa mesin, suspensi depan dan bodywork depan yang terintegrasi langsung pada bodi.</item>
+        <item>Plymouth Hemi ‘Cuda adalah model muscle car performa tinggi dua pintu yang diproduksi oleh Plymouth, sebuah divisi dari Chrysler Corporation, dari tahun 1970 hingga 1971.</item>
+        <item>Ferrari 250 GTO merupakan Homologasi dari Seri Ferrari 250 untuk balap di FIA GT3 yang di produksi dari tahun 1962-1964. Mobil ini merupakan mobil paling legendaris yang pernah dibuat Ferrari. Mobil ini memiliki rata-rata 295 Tenaga Kuda, ada yang lebih dari itu namun juga ada yang kurang. Karena setiap unit dari mobil ini konon katanya memiliki panjang setiap panel yang berbeda karena mobil ini dirakit tangan</item>
+        <item>Mercedes-Benz 300 SL (kode sasis W 198) adalah mobil sport dua tempat duduk yang diproduksi oleh Mercedes-Benz sebagai gullwinged coupe (1954–1957) dan roadster (1957–1963). Itu didasarkan pada pembalap perusahaan tahun 1952, W194, dengan injeksi bahan bakar langsung mekanis yang meningkatkan tenaga hampir 50 persen pada mesin tiga liter overhead camshaft straight-six. Mampu mencapai kecepatan tertinggi hingga 263 km/jam (163 mph), mobil ini merupakan juara balap mobil sport dan mobil produksi tercepat pada masanya.</item>
+        <item>Lamborghini Miura mencatatkan diri mereka sebagai salah satu supercar paling inovatif, tercepat, serta terseksi di masanya. Mobil ini dirancang oleh tiga engineer kepercayaan Ferrucio Lamborghini, Gian Paolo Dallara, Paolo Stanzani dan Bob Wallace, serta bodi eksterior dikerjakan oleh Marcello Gandini dari Carrozeria Bertone.</item>
+    </string-array>
+
+</resources>
